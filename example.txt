@@ -1,8 +1,0 @@
-Đây là file ví dụ để push từ bên ngoài
-
-
-
-Minh đã sửa file này ở trên git hub
-
-
-Minh thêm file này trên github
